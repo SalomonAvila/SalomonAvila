@@ -5,11 +5,8 @@ Im a System engineering student at Pontificia Universidad Javeriana, Bogota, Col
 ## Skills
 
 I have skills on various programming languages such as
- 
- - C++
- - Java
 
-Also, on web development, the usage of frameworks such as React and Next.Js.
+![SalomonAvila's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalomonAvila&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Proyects
 
