@@ -26,3 +26,6 @@ FitJourney is a web application built with React that enables users to track and
 - Responsive Design: Adapts to different screen sizes, ensuring an optimal experience on both mobile and desktop devices.
 - Deployment on Vercel: It is configured for deployment on the Vercel platform.
 - Uses a Database as a service relational PostgreSQL DB for storing relevant information.
+
+## Colaborator
+Colaborator on the CLI for capitulo javeriano ACM [link](https://github.com/CapituloJaverianoACM/acm-cli)
