@@ -28,5 +28,5 @@ FitJourney is a web application built with React that enables users to track and
 - Uses a Database as a service relational PostgreSQL DB for storing relevant information.
 - 
 ## Colaborator
-Colaborator on the CLI for Capitulo Javeriano ACM [link](https://github.com/CapituloJaverianoACM/acm-cli)
-Colaborator on the API for Capitulo Javeriano ACM [link](https://github.com/CapituloJaverianoACM/acm-api)
+- Colaborator on the CLI for Capitulo Javeriano ACM [link](https://github.com/CapituloJaverianoACM/acm-cli)
+- Colaborator on the API for Capitulo Javeriano ACM [link](https://github.com/CapituloJaverianoACM/acm-api)
