@@ -2,6 +2,9 @@
 
 Im a System engineering student at Pontificia Universidad Javeriana, Bogota, Colombia, passionate about computer science and software building
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salomon%20Avila-blue?style=for-the-badge&logo=linkedin)](https://co.linkedin.com/in/salomon-avila-271b49220)
+
+
 ## Skills
 
 I have skills on various programming languages such as
