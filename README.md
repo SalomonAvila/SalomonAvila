@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi, I'm Salomon Avila
+  Salomon Avila
 </h1>
 
 <p align="center">
-  <em>Systems Engineering Student · Software Builder · Pontificia Universidad Javeriana ACM Student Chapter President</em>
+  <strong>Systems Engineering Student | Software Builder | ACM Student Chapter President</strong>
 </p>
 
 <p align="center">
@@ -21,92 +21,63 @@
 
 ---
 
-## About Me
+## Professional Profile
 
-I'm a **Systems Engineering student** at Pontificia Universidad Javeriana (Bogotá, Colombia), passionate about building reliable software and exploring the full stack — from designing clean APIs to crafting intuitive interfaces.
+Systems Engineering student at Pontificia Universidad Javeriana. Focused on designing scalable architectures, distributed systems, and high-performance backend services. As President of the ACM Student Chapter, I lead technical projects emphasizing code quality, automated workflows, and system reliability.
 
-I'm an active contributor at the **Capítulo Javeriano ACM**, where I collaborate on real-world tools used by my university's student chapter. I thrive in team environments, enjoy solving architectural challenges, and care deeply about code quality and developer experience.
-
-- 🎓 Currently studying Systems Engineering at **PUJ Bogotá**
-- 🛠️ Building CLI tools, REST APIs, and web UIs with **TypeScript**
-- 🤝 Open to internships, part-time roles, and open source collaboration
-- 📍 Based in **Bogotá, Colombia** — open to remote work
+My expertise includes full-stack development (Spring Boot/Angular), event-driven communication (MQTT/ZeroMQ), and modern infrastructure orchestration with Docker and Kubernetes.
 
 ---
 
-## Tech Stack
+## Technical Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Languages & Runtimes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Frameworks & Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Distributed Systems & Messaging
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
+![Mosquitto MQTT](https://img.shields.io/badge/Mosquitto_MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
-
-## Featured Projects
-
-### 🌐 ACM Web Page UI
-> Capítulo Javeriano ACM · TypeScript · React
-
-The official website of the Javeriana ACM student chapter. I contributed to the frontend architecture and UI components.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CapituloJaverianoACM/ACM-Web-Page-UI)
+### DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### ⚙️ ACM API
-> Capítulo Javeriano ACM · TypeScript · REST
+## Technical Projects
 
-Web API that powers the ACM chapter's platform. Contributed to endpoint design and backend logic.
+### Distributed Systems & Communication
+**C++ | ZeroMQ | Docker**
+* Engineered a distributed environment implementing **Publisher/Subscriber** and **Request/Response** patterns using ZeroMQ and MQTT for reliable message delivery in high-latency scenarios.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CapituloJaverianoACM/acm-api)
+### ACM Platform Ecosystem
+**TypeScript | Bun | GitHub Actions | ElysiaJS**
+* **ACM Web UI:** Architected frontend components with React/Angular focusing on performance.
+* **ACM API:** Developed high-throughput RESTful services; integrated GitHub Actions for CI/CD and automated quality gates.
 
----
-
-### 🖥️ ACM CLI
-> Capítulo Javeriano ACM · TypeScript
-
-Command-line tool for managing chapter information and automating internal workflows.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CapituloJaverianoACM/acm-cli)
-
----
-
-### 🔗 Distributed Systems Project
-> C++ · University project
-
-Implementation of distributed systems concepts, including process coordination and communication patterns.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SalomonAvila/Proyecto_sistemas_distribuidos)
+### Data Structures & Algorithms
+**C++ | Computer Science Foundations**
+* Custom implementation of memory-efficient data structures (Graphs, AVL Trees, etc) to solve complex optimization problems.
 
 ---
 
-### 📚 Data Structures
-> C++ · Academic reference
+## Contact & Collaboration
 
-Collection of data structure implementations from scratch: linked lists, trees, graphs, and more.
+I am actively seeking opportunities for software engineering internships and junior roles where I can apply my knowledge in distributed systems and cloud-native development.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SalomonAvila/Data_Structures)
-
----
-
-
-## Open to Opportunities
-
-I'm actively looking for **internships** and **junior developer roles** where I can contribute to meaningful products and keep growing as an engineer. I'm comfortable working in Spanish or English, and open to remote or hybrid arrangements.
-
-📬 Reach me on [LinkedIn](https://co.linkedin.com/in/salomon-avila-271b49220) or via email.
-
----
+* **LinkedIn:** [linkedin.com/in/salomon-avila-271b49220](https://co.linkedin.com/in/salomon-avila-271b49220)
+* **Email:** [avila_sa@javeriana.edu.co](mailto:avila_sa@javeriana.edu.co)
