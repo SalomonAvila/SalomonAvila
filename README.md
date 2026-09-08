@@ -26,14 +26,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalomonAvila&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&background=transparent" alt="Salomon's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalomonAvila&theme=transparent-bkg&color=0A66C2&line=0A66C2&point=000000&hide_border=true" alt="Salomon's Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalomonAvila&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="Salomon's Top Languages" />
-</p>
-
 ---
 
 ## 👨‍💻 Professional Profile
