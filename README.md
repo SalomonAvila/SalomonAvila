@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalomonAvila&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="Salomon's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalomonAvila&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&background=transparent" alt="Salomon's GitHub Streak" />
 </p>
 
 ---
