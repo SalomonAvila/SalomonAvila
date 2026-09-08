@@ -103,7 +103,7 @@ My expertise includes full-stack development (Spring Boot/Angular), event-driven
 
 ## 🤝 Contact & Collaboration
 
-I am actively seeking opportunities for software engineering internships and junior roles where I can apply my knowledge in distributed systems, infrastructure, and cloud-native development.
+I am actively seeking opportunities for software engineering, SRE, DevOps or related internships and junior roles where I can apply my knowledge in distributed systems, infrastructure, and cloud-native development.
 
 * **LinkedIn:** [linkedin.com/in/salomon-avila-271b49220](https://co.linkedin.com/in/salomon-avila-271b49220)
 * **Email:** [salomon.avila2506@gmail.com](mailto:salomon.avila2506@gmail.com)
